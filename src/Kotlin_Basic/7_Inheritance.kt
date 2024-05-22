@@ -1,3 +1,5 @@
+package Kotlin_Basic
+
 // Kotlin의 class는 기본적으로 final로 상속이 불가하다
 // 상속을 해주기 위해선 앞에 open 키워드를 사용해주어야 한다.
 open class Dog {

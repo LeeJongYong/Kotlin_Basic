@@ -1,3 +1,5 @@
+package Kotlin_Basic
+
 fun main() {
     //  Kotlin 변수 선언
     val a : Int = 1

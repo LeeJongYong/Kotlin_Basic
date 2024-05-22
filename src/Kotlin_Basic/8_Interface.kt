@@ -1,3 +1,5 @@
+package Kotlin_Basic
+
 class Product(val name:String, val price: Int)
 
 interface Wheel{

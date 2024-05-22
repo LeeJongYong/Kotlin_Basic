@@ -1,3 +1,5 @@
+package Kotlin_Basic
+
 // enum(열거형) 함수 선언 시 앞에 키워드르 붙인다.
 // Java와 다르게 class 키워드를 붙여줘야한다.
 enum class PaymentStatus(val label:String): Payable {

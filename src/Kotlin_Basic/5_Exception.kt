@@ -1,3 +1,5 @@
+package Kotlin_Basic
+
 fun main(args:Array<String>){
 
     // Kotlin은 CheckedException을 강제하지 않음

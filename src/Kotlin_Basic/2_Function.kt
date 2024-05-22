@@ -1,3 +1,5 @@
+package Kotlin_Basic
+
 // Java 스타일
 fun sum(a:Int, b:Int) : Int {
     return a+b
