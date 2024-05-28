@@ -47,7 +47,7 @@ class MyClass {
 
     private constructor()
 
-    // companion object 키워드를 사용하여 동방객체를 생성할 수 있다.
+    // companion object 키워드를 사용하여 동반객체를 생성할 수 있다.
     companion object MyCompanion {
         val a = 1234
 
@@ -60,7 +60,7 @@ fun main() {
     println(MyClass.newInstance())
 
     // companion 객체는 Companion 키워드를 사용하여 접근할 수 있다.(생략도 가능)
-    // 동방객체에 이름(MyCompanion)을 부여하면 접근할 때도 이름을 선언해줘야 한다.(생략도 가능)
+    // 동반객체에 이름(MyCompanion)을 부여하면 접근할 때도 이름을 선언해줘야 한다.(생략도 가능)
     println(MyClass.a)
     println(MyClass.newInstance())
 }
