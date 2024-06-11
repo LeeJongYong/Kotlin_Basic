@@ -1,5 +1,8 @@
 package Kotlin_Advanced
 
+// 참고
+// https://todaycode.tistory.com/176
+
 // 확장함수를 사용할 때
 // 확장할 함수를 선언하고 뒤에 클래스명을 선언한다.
 fun String.first() : Char{
